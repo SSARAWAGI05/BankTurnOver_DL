@@ -1,5 +1,3 @@
-
-```markdown
 # Customer Churn Prediction
 
 This project implements a machine learning model using TensorFlow to predict customer churn for a bank dataset. The dataset contains various customer attributes, and the model aims to classify whether a customer will exit or remain with the bank.
