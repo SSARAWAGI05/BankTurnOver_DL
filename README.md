@@ -64,12 +64,6 @@ pip install tensorflow pandas numpy scikit-learn imbalanced-learn matplotlib sea
 
 2. Place the `Churn_Modelling.csv` file in the project directory.
 
-3. Run the script:
-
-   ```bash
-   python churn_prediction.py
-   ```
-
 ## Modeling
 
 The following steps were performed in modeling:
