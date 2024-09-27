@@ -58,8 +58,8 @@ pip install tensorflow pandas numpy scikit-learn imbalanced-learn matplotlib sea
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/SSARAWAGI05/BankTurnOver_DL.git
+   cd BankTurnOver_DL
    ```
 
 2. Place the `Churn_Modelling.csv` file in the project directory.
